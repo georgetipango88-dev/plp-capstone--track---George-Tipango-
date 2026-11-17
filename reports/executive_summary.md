@@ -65,3 +65,4 @@ Implementing these directives for H2 2026 will transform commercial efficiency:
 2. **Attribution of Cash Transactions**: Walk-in retail transactions settling via cash (4.9% of volume) lacked persistent phone identifiers, requiring conservative modal imputation during customer profiling.
 3. **Six-Month Observation Horizon**: Analysis is bounded within H1 2026; macroeconomic seasonality associated with Q4 Black Friday and Christmas cycles will require iterative model recalibration.
 4. **Competitor Pricing Visibility**: The dataset does not incorporate real-time scraper feeds from competitors (e.g., Jumia, Hotpoint), limiting external price elasticity benchmarking.
+

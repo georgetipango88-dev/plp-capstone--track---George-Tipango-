@@ -331,3 +331,4 @@ if __name__ == "__main__":
     print(f"Database saved to: {db_path}")
     print("\nCleaning Log Summary:")
     print(result["cleaning_log"][["dimension", "table", "action_taken", "rows_affected"]])
+

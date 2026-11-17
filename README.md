@@ -196,3 +196,4 @@ In strict compliance with the **Kenya Data Protection Act (KDPA) 2019** and the 
 - **GitHub Profile**: [github.com/georgetipango88-dev](https://github.com/georgetipango88-dev)
 - **Email**: [georgetipango@gmail.com](mailto:georgetipango@gmail.com)
 - **Programme**: Power Learn Project (PLP) Africa — Capstone Build and Career Readiness (H1 2026)
+

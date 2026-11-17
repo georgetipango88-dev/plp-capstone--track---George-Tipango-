@@ -64,3 +64,4 @@ To regenerate the raw synthetic files from scratch:
 python data/generate_data.py
 ```
 This produces all five CSV files deterministically with a random seed of `42`.
+

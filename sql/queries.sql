@@ -181,3 +181,4 @@ FROM fct_orders
 WHERE order_status = 'Completed'
 GROUP BY payment_method
 ORDER BY total_volume_kes DESC;
+
