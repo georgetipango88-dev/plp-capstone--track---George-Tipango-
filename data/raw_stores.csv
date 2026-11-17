@@ -1,0 +1,8 @@
+store_id,store_name,county,region,channel,square_meters
+STR-001,Nairobi CBD Flagship,Nairobi,Nairobi,retail_store,450
+STR-002,Nairobi Westlands Hub,Nairobi,Nairobi,RETAIL STORE,320
+STR-003,Mombasa Old Port Mall,Mombasa,Coast,Retail Store,280
+STR-004,Kisumu Mega Plaza,Kisumu,Western,Retail Store,220
+STR-005,Nakuru Rift Hub,Nakuru,Rift Valley,Retail Store,190
+STR-006,Eldoret Highland Mall,Uasin Gishu,Rift Valley,Retail Store,210
+STR-007,Duka E-Commerce Portal,Nairobi,Online,E-Commerce,0

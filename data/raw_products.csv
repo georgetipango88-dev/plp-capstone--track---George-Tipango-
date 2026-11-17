@@ -1,0 +1,26 @@
+product_id,product_name,category,unit_cost_kes,unit_price_kes
+PRD-101,HP Pavilion 15 Core i5 16GB,Laptops & Computing,68000,85000
+PRD-102,Dell Latitude 5420 Core i7,Laptops & Computing,84000,105000
+PRD-103,MacBook Air M2 256GB,Laptops & Computing,125000,155000
+PRD-104,Lenovo IdeaPad Slim 3,Laptops & Computing,42000,52000
+PRD-105,Asus TUF Gaming A15,Laptops & Computing,110000,138000
+PRD-201,Samsung Galaxy S24 Ultra,Smartphones & Tablets,130000,160000
+PRD-202,iPhone 15 Pro 128GB,Smartphones & Tablets,142000,175000
+PRD-203,Redmi Note 13 Pro 256GB,Smartphones & Tablets,26000,34000
+PRD-204,Samsung Galaxy A54 5G,Smartphones & Tablets,35000,44000
+PRD-205,iPad 10th Gen 64GB WiFi,Smartphones & Tablets,48000,60000
+PRD-301,Sony WH-1000XM5 ANC Headphones,Audio & Wearables,32000,42000
+PRD-302,JBL Flip 6 Bluetooth Speaker,Audio & Wearables,11000,15500
+PRD-303,Apple AirPods Pro 2nd Gen,Audio & Wearables,26000,33000
+PRD-304,Samsung Galaxy Watch 6,Audio & Wearables,22000,29000
+PRD-305,Oraimo FreePods 4 ANC,Audio & Wearables,3200,4800
+PRD-401,LG 55 Inch 4K UHD Smart TV,Home Entertainment,55000,72000
+PRD-402,Samsung 65 Inch QLED 4K TV,Home Entertainment,98000,128000
+PRD-403,Hisense 43 Inch FHD Smart TV,Home Entertainment,24000,32000
+PRD-404,Sony HT-S20R 5.1ch Soundbar,Home Entertainment,21000,28000
+PRD-405,PlayStation 5 Slim Console,Home Entertainment,64000,79000
+PRD-501,Logitech MX Master 3S Mouse,Accessories & Peripherals,9500,13500
+PRD-502,SanDisk Extreme 1TB NVMe SSD,Accessories & Peripherals,11500,16000
+PRD-503,Anker 65W GaN Fast Charger,Accessories & Peripherals,3800,5500
+PRD-504,Dell 24 Inch IPS FHD Monitor,Accessories & Peripherals,16000,22000
+PRD-505,TP-Link Deco S7 Mesh WiFi 3-Pack,Accessories & Peripherals,14000,19500
